@@ -1,0 +1,23 @@
+1.Create a new Java project
+2.Create a .CSV file that contains 10 Players with the default initials AAA-JJJ and default High Scores
+3.Load the Players into a List
+4.Display all 10 high scores
+5.Create a new Player with a High Score that is higher than the current #8, but lower than the current #9
+6.Add the new Player to the list
+7.Sort the list by score, descending
+8.Drop the lowest score (the new #11)
+9.Re-display all 10 high scores
+
+ 
+
+Sample Output
+
+#1     AAA      10,000,000
+
+#2     BBB       9,000,475
+
+#3     CCC       9,000,000
+
+...
+
+#10    JJJ         150,000
