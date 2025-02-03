@@ -1,7 +1,7 @@
 /*
 
-      DATE: 01/16/2025
-      ASSIGNMENT: LAB: Module 0 - High Scores
+      DATE: 02/03/2025
+      ASSIGNMENT: High Scores from a CSV File
       VERSION: 0.1.0
 
  */
